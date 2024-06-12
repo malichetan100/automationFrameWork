@@ -1,0 +1,357 @@
+[INFO ] 2024-02-08 16:58:39.451 [main] Log4j - This is Info Logger
+[ERROR] 2024-02-08 16:58:39.456 [main] Log4j - This Error Logger
+[FATAL] 2024-02-08 16:58:39.456 [main] Log4j - This is fatal Logger
+[WARN ] 2024-02-08 16:58:39.456 [main] Log4j - This is Warn Logger
+[TRACE] 2024-02-08 17:00:55.871 [main] Log4j - This is Trace Logger
+[INFO ] 2024-02-08 17:00:55.875 [main] Log4j - This is Info Logger
+[ERROR] 2024-02-08 17:00:55.875 [main] Log4j - This Error Logger
+[FATAL] 2024-02-08 17:00:55.875 [main] Log4j - This is fatal Logger
+[WARN ] 2024-02-08 17:00:55.876 [main] Log4j - This is Warn Logger
+[TRACE] 2024-02-08 17:02:46.714 [main] Log4j - This is Trace Logger
+[INFO ] 2024-02-08 17:02:46.720 [main] Log4j - This is Info Logger
+[ERROR] 2024-02-08 17:02:46.723 [main] Log4j - This Error Logger
+[FATAL] 2024-02-08 17:02:46.723 [main] Log4j - This is fatal Logger
+[WARN ] 2024-02-08 17:02:46.723 [main] Log4j - This is Warn Logger
+[INFO ] 2024-02-08 17:06:12.714 [main] BaseTest - The config.prperty file executing
+[INFO ] 2024-02-08 17:06:12.845 [main] BaseTest - Launching browser
+[INFO ] 2024-02-08 17:06:30.288 [main] BaseTest - Clossing Browser
+[INFO ] 2024-02-08 17:06:30.777 [main] BaseTest - Clossing Browser
+[INFO ] 2024-02-08 17:12:00.141 [main] BaseTest - The config.prperty file executing
+[INFO ] 2024-02-08 17:12:00.271 [main] BaseTest - Launching browser
+[INFO ] 2024-02-08 17:13:06.847 [main] BaseTest - The config.prperty file executing
+[INFO ] 2024-02-08 17:13:06.965 [main] BaseTest - Launching browser
+[INFO ] 2024-02-08 17:13:20.235 [main] BaseTest - Clossing Browser
+[INFO ] 2024-02-08 17:13:20.247 [main] BaseTest - Clossing Browser
+[INFO ] 2024-02-08 17:16:35.252 [main] BaseTest - The config.prperty file executing
+[INFO ] 2024-02-08 17:16:35.378 [main] BaseTest - Launching browser
+[INFO ] 2024-02-08 17:16:50.814 [main] BaseTest - Clossing Browser
+[INFO ] 2024-02-08 17:16:51.254 [main] BaseTest - Clossing Browser
+[INFO ] 2024-02-08 17:17:53.054 [main] BaseTest - The config.prperty file executing
+[INFO ] 2024-02-08 17:17:53.182 [main] BaseTest - Launching browser
+[INFO ] 2024-02-08 17:17:53.201 [main] BaseTest - Clossing Browser
+[INFO ] 2024-02-08 17:18:36.514 [main] BaseTest - The config.prperty file executing
+[INFO ] 2024-02-08 17:18:36.638 [main] BaseTest - Launching browser
+[INFO ] 2024-02-08 17:18:36.658 [main] BaseTest - Clossing Browser
+[INFO ] 2024-02-08 17:19:15.901 [main] BaseTest - The config.prperty file executing
+[INFO ] 2024-02-08 17:19:16.035 [main] BaseTest - Launching browser
+[INFO ] 2024-02-08 17:19:16.055 [main] BaseTest - Clossing Browser
+[INFO ] 2024-02-08 17:20:11.542 [main] BaseTest - The config.prperty file executing
+[INFO ] 2024-02-08 17:20:11.672 [main] BaseTest - Launching browser
+[INFO ] 2024-02-08 17:20:11.693 [main] BaseTest - Clossing Browser
+[INFO ] 2024-02-08 17:20:52.909 [main] BaseTest - The config.prperty file executing
+[INFO ] 2024-02-08 17:20:53.036 [main] BaseTest - Launching browser
+[INFO ] 2024-02-08 17:20:53.058 [main] BaseTest - Clossing Browser
+[INFO ] 2024-02-08 17:22:39.322 [main] BaseTest - The config.prperty file executing
+[INFO ] 2024-02-08 17:22:39.463 [main] BaseTest - Launching browser
+[INFO ] 2024-02-08 17:22:39.487 [main] BaseTest - Clossing Browser
+[INFO ] 2024-02-08 17:23:33.434 [main] BaseTest - The config.prperty file executing
+[INFO ] 2024-02-08 17:23:33.568 [main] BaseTest - Launching browser
+[INFO ] 2024-02-08 17:23:33.590 [main] BaseTest - Clossing Browser
+[INFO ] 2024-02-08 17:24:14.433 [main] BaseTest - The config.prperty file executing
+[INFO ] 2024-02-08 17:24:14.577 [main] BaseTest - Launching browser
+[INFO ] 2024-02-08 17:24:14.578 [main] BaseTest - Launching Edge browser
+[INFO ] 2024-02-10 08:33:17.893 [main] BaseTest - The config.prperty file executing
+[INFO ] 2024-02-10 08:33:18.055 [main] BaseTest - Launching browser
+[INFO ] 2024-02-10 08:33:18.056 [main] BaseTest - Launching Edge browser
+[INFO ] 2024-02-10 08:33:45.446 [main] BaseTest - Clossing Browser
+[INFO ] 2024-02-10 08:33:45.987 [main] BaseTest - Clossing Browser
+[INFO ] 2024-02-10 08:36:41.281 [main] BaseTest - The config.prperty file executing
+[INFO ] 2024-02-10 08:36:41.452 [main] BaseTest - Launching browser
+[INFO ] 2024-02-10 08:36:41.452 [main] BaseTest - Launching Edge browser
+[INFO ] 2024-02-10 08:36:58.210 [main] BaseTest - Clossing Browser
+[INFO ] 2024-02-10 08:36:58.257 [main] BaseTest - Clossing Browser
+[INFO ] 2024-02-13 12:40:02.697 [main] BaseTest - The config.prperty file executing
+[INFO ] 2024-02-13 12:40:02.863 [main] BaseTest - Launching browser
+[INFO ] 2024-02-13 12:40:02.864 [main] BaseTest - Launching Edge browser
+[INFO ] 2024-02-13 12:40:20.125 [main] BaseTest - Clossing Browser
+[INFO ] 2024-02-13 12:40:20.911 [main] BaseTest - Launching browser
+[INFO ] 2024-02-13 12:40:20.926 [main] BaseTest - Launching Edge browser
+[INFO ] 2024-02-13 12:40:34.245 [main] BaseTest - Clossing Browser
+[INFO ] 2024-02-13 12:40:34.906 [main] BaseTest - Launching browser
+[INFO ] 2024-02-13 12:40:34.906 [main] BaseTest - Launching Edge browser
+[INFO ] 2024-02-13 12:40:47.995 [main] BaseTest - Clossing Browser
+[INFO ] 2024-02-13 12:40:48.579 [main] BaseTest - Launching browser
+[INFO ] 2024-02-13 12:40:48.579 [main] BaseTest - Launching Edge browser
+[INFO ] 2024-02-13 12:41:01.657 [main] BaseTest - Clossing Browser
+[INFO ] 2024-02-13 12:41:02.285 [main] BaseTest - Clossing Browser
+[INFO ] 2024-02-13 12:53:49.346 [main] BaseTest - The config.prperty file executing
+[INFO ] 2024-02-13 12:53:49.521 [main] BaseTest - Launching browser
+[INFO ] 2024-02-13 12:53:49.522 [main] BaseTest - Launching Edge browser
+[INFO ] 2024-02-13 12:54:05.337 [main] BaseTest - Clossing Browser
+[INFO ] 2024-02-13 12:54:05.982 [main] BaseTest - Launching browser
+[INFO ] 2024-02-13 12:54:05.982 [main] BaseTest - Launching Edge browser
+[INFO ] 2024-02-13 12:54:19.289 [main] BaseTest - Clossing Browser
+[INFO ] 2024-02-13 12:54:19.770 [main] BaseTest - Launching browser
+[INFO ] 2024-02-13 12:54:19.770 [main] BaseTest - Launching Edge browser
+[INFO ] 2024-02-13 12:54:32.846 [main] BaseTest - Clossing Browser
+[INFO ] 2024-02-13 12:54:33.384 [main] BaseTest - Launching browser
+[INFO ] 2024-02-13 12:54:33.384 [main] BaseTest - Launching Edge browser
+[INFO ] 2024-02-13 12:54:46.652 [main] BaseTest - Clossing Browser
+[INFO ] 2024-02-13 12:54:47.153 [main] BaseTest - Clossing Browser
+[INFO ] 2024-02-13 13:24:59.682 [main] BaseTest - The config.prperty file executing
+[INFO ] 2024-02-13 13:24:59.986 [main] BaseTest - Launching browser
+[INFO ] 2024-02-13 13:24:59.987 [main] BaseTest - Launching Edge browser
+[INFO ] 2024-02-13 13:25:16.017 [main] BaseTest - Clossing Browser
+[INFO ] 2024-02-13 13:25:16.802 [main] BaseTest - Launching browser
+[INFO ] 2024-02-13 13:25:16.802 [main] BaseTest - Launching Edge browser
+[INFO ] 2024-02-13 13:25:29.927 [main] BaseTest - Clossing Browser
+[INFO ] 2024-02-13 13:25:30.524 [main] BaseTest - Launching browser
+[INFO ] 2024-02-13 13:25:30.524 [main] BaseTest - Launching Edge browser
+[INFO ] 2024-02-13 13:25:43.343 [main] BaseTest - Clossing Browser
+[INFO ] 2024-02-13 13:25:43.924 [main] BaseTest - Launching browser
+[INFO ] 2024-02-13 13:25:43.924 [main] BaseTest - Launching Edge browser
+[INFO ] 2024-02-13 13:25:57.007 [main] BaseTest - Clossing Browser
+[INFO ] 2024-02-13 13:25:57.495 [main] BaseTest - Clossing Browser
+[INFO ] 2024-02-13 13:29:16.120 [main] BaseTest - The config.prperty file executing
+[INFO ] 2024-02-13 13:29:16.443 [main] BaseTest - Launching browser
+[INFO ] 2024-02-13 13:29:16.444 [main] BaseTest - Launching Edge browser
+[INFO ] 2024-02-13 13:29:30.392 [main] BaseTest - Clossing Browser
+[INFO ] 2024-02-13 13:29:30.926 [main] BaseTest - Launching browser
+[INFO ] 2024-02-13 13:29:30.926 [main] BaseTest - Launching Edge browser
+[INFO ] 2024-02-13 13:29:44.019 [main] BaseTest - Clossing Browser
+[INFO ] 2024-02-13 13:29:44.444 [main] BaseTest - Launching browser
+[INFO ] 2024-02-13 13:29:44.444 [main] BaseTest - Launching Edge browser
+[INFO ] 2024-02-13 13:29:57.367 [main] BaseTest - Clossing Browser
+[INFO ] 2024-02-13 13:29:57.775 [main] BaseTest - Launching browser
+[INFO ] 2024-02-13 13:29:57.775 [main] BaseTest - Launching Edge browser
+[INFO ] 2024-02-13 13:30:10.794 [main] BaseTest - Clossing Browser
+[INFO ] 2024-02-13 13:30:11.217 [main] BaseTest - Clossing Browser
+[INFO ] 2024-02-13 14:00:02.414 [main] BaseTest - The config.prperty file executing
+[INFO ] 2024-02-13 14:00:02.734 [main] BaseTest - Launching browser
+[INFO ] 2024-02-13 14:00:02.735 [main] BaseTest - Launching Edge browser
+[INFO ] 2024-02-13 14:00:19.231 [main] BaseTest - Clossing Browser
+[INFO ] 2024-02-13 14:00:19.891 [main] BaseTest - Launching browser
+[INFO ] 2024-02-13 14:00:19.891 [main] BaseTest - Launching Edge browser
+[INFO ] 2024-02-13 14:00:32.914 [main] BaseTest - Clossing Browser
+[INFO ] 2024-02-13 14:00:33.479 [main] BaseTest - Launching browser
+[INFO ] 2024-02-13 14:00:33.479 [main] BaseTest - Launching Edge browser
+[INFO ] 2024-02-13 14:00:46.667 [main] BaseTest - Clossing Browser
+[INFO ] 2024-02-13 14:00:47.300 [main] BaseTest - Launching browser
+[INFO ] 2024-02-13 14:00:47.300 [main] BaseTest - Launching Edge browser
+[INFO ] 2024-02-13 14:01:00.308 [main] BaseTest - Clossing Browser
+[INFO ] 2024-02-13 14:01:00.858 [main] BaseTest - Clossing Browser
+[INFO ] 2024-02-13 14:03:39.288 [main] BaseTest - The config.prperty file executing
+[INFO ] 2024-02-13 14:03:39.580 [main] BaseTest - Launching browser
+[INFO ] 2024-02-13 14:03:39.580 [main] BaseTest - Launching Edge browser
+[INFO ] 2024-02-13 14:03:54.843 [main] BaseTest - Clossing Browser
+[INFO ] 2024-02-13 14:03:55.440 [main] BaseTest - Clossing Browser
+[INFO ] 2024-02-13 16:47:11.810 [main] BaseTest - The config.prperty file executing
+[INFO ] 2024-02-13 16:47:12.328 [main] BaseTest - Launching browser
+[INFO ] 2024-02-13 16:47:12.328 [main] BaseTest - Launching Edge browser
+[INFO ] 2024-02-13 16:47:29.883 [main] BaseTest - Clossing Browser
+[INFO ] 2024-02-13 16:47:30.385 [main] BaseTest - Launching browser
+[INFO ] 2024-02-13 16:47:30.385 [main] BaseTest - Launching Edge browser
+[INFO ] 2024-02-13 16:47:44.132 [main] BaseTest - Clossing Browser
+[INFO ] 2024-02-13 16:47:44.549 [main] BaseTest - Launching browser
+[INFO ] 2024-02-13 16:47:44.549 [main] BaseTest - Launching Edge browser
+[INFO ] 2024-02-13 16:47:58.799 [main] BaseTest - Clossing Browser
+[INFO ] 2024-02-13 16:47:59.249 [main] BaseTest - Launching browser
+[INFO ] 2024-02-13 16:47:59.249 [main] BaseTest - Launching Edge browser
+[INFO ] 2024-02-13 16:48:13.410 [main] BaseTest - Clossing Browser
+[INFO ] 2024-02-13 16:48:13.846 [main] BaseTest - Clossing Browser
+[INFO ] 2024-02-13 16:49:14.854 [main] BaseTest - The config.prperty file executing
+[INFO ] 2024-02-13 16:49:15.146 [main] BaseTest - Launching browser
+[INFO ] 2024-02-13 16:49:15.147 [main] BaseTest - Launching Edge browser
+[INFO ] 2024-02-13 16:50:40.166 [main] BaseTest - Clossing Browser
+[INFO ] 2024-02-13 16:50:40.641 [main] BaseTest - Clossing Browser
+[INFO ] 2024-02-13 16:51:48.078 [main] BaseTest - The config.prperty file executing
+[INFO ] 2024-02-13 16:51:48.364 [main] BaseTest - Launching browser
+[INFO ] 2024-02-13 16:51:48.364 [main] BaseTest - Launching Edge browser
+[INFO ] 2024-02-13 16:52:04.118 [main] BaseTest - Clossing Browser
+[INFO ] 2024-02-13 16:52:04.526 [main] BaseTest - Clossing Browser
+[INFO ] 2024-02-13 16:52:37.002 [main] BaseTest - The config.prperty file executing
+[INFO ] 2024-02-13 16:52:37.289 [main] BaseTest - Launching browser
+[INFO ] 2024-02-13 16:52:37.289 [main] BaseTest - Launching Edge browser
+[INFO ] 2024-02-13 16:53:12.296 [main] BaseTest - Clossing Browser
+[INFO ] 2024-02-13 16:53:12.827 [main] BaseTest - Clossing Browser
+[INFO ] 2024-02-13 16:55:51.564 [main] BaseTest - The config.prperty file executing
+[INFO ] 2024-02-13 16:55:51.872 [main] BaseTest - Launching browser
+[INFO ] 2024-02-13 16:55:51.873 [main] BaseTest - Launching Edge browser
+[INFO ] 2024-02-13 16:56:16.457 [main] BaseTest - Clossing Browser
+[INFO ] 2024-02-13 16:56:17.007 [main] BaseTest - Clossing Browser
+[INFO ] 2024-02-13 16:57:11.952 [main] BaseTest - The config.prperty file executing
+[INFO ] 2024-02-13 16:57:12.234 [main] BaseTest - Launching browser
+[INFO ] 2024-02-13 16:57:12.234 [main] BaseTest - Launching Edge browser
+[INFO ] 2024-02-13 16:57:30.117 [main] BaseTest - Clossing Browser
+[INFO ] 2024-02-13 16:57:30.637 [main] BaseTest - Clossing Browser
+[INFO ] 2024-02-13 16:58:02.551 [main] BaseTest - The config.prperty file executing
+[INFO ] 2024-02-13 16:58:02.839 [main] BaseTest - Launching browser
+[INFO ] 2024-02-13 16:58:02.839 [main] BaseTest - Launching Edge browser
+[INFO ] 2024-02-13 16:58:22.958 [main] BaseTest - Clossing Browser
+[INFO ] 2024-02-13 16:58:23.471 [main] BaseTest - Clossing Browser
+[INFO ] 2024-02-13 16:59:47.198 [main] BaseTest - The config.prperty file executing
+[INFO ] 2024-02-13 16:59:47.256 [main] BaseTest - The config.prperty file executing
+[INFO ] 2024-02-13 16:59:47.265 [main] BaseTest - The config.prperty file executing
+[INFO ] 2024-02-13 16:59:47.532 [main] BaseTest - Launching browser
+[INFO ] 2024-02-13 16:59:47.533 [main] BaseTest - Launching Edge browser
+[INFO ] 2024-02-13 17:00:31.653 [main] BaseTest - Clossing Browser
+[INFO ] 2024-02-13 17:00:32.204 [main] BaseTest - Launching browser
+[INFO ] 2024-02-13 17:00:32.204 [main] BaseTest - Launching Edge browser
+[INFO ] 2024-02-13 17:01:16.000 [main] BaseTest - Clossing Browser
+[INFO ] 2024-02-13 17:01:16.471 [main] BaseTest - Launching browser
+[INFO ] 2024-02-13 17:01:16.471 [main] BaseTest - Launching Edge browser
+[INFO ] 2024-02-13 17:02:14.545 [main] BaseTest - Clossing Browser
+[INFO ] 2024-02-13 17:02:15.016 [main] BaseTest - Clossing Browser
+[INFO ] 2024-02-13 17:03:02.603 [main] BaseTest - The config.prperty file executing
+[INFO ] 2024-02-13 17:03:02.894 [main] BaseTest - Launching browser
+[INFO ] 2024-02-13 17:03:02.895 [main] BaseTest - Launching Edge browser
+[INFO ] 2024-02-13 17:03:22.732 [main] BaseTest - Clossing Browser
+[INFO ] 2024-02-13 17:03:23.235 [main] BaseTest - Launching browser
+[INFO ] 2024-02-13 17:03:23.235 [main] BaseTest - Launching Edge browser
+[INFO ] 2024-02-13 17:04:06.168 [main] BaseTest - Clossing Browser
+[INFO ] 2024-02-13 17:04:06.655 [main] BaseTest - Launching browser
+[INFO ] 2024-02-13 17:04:06.655 [main] BaseTest - Launching Edge browser
+[INFO ] 2024-02-13 17:05:03.318 [main] BaseTest - Clossing Browser
+[INFO ] 2024-02-13 17:05:03.808 [main] BaseTest - Launching browser
+[INFO ] 2024-02-13 17:05:03.808 [main] BaseTest - Launching Edge browser
+[INFO ] 2024-02-13 17:05:48.070 [main] BaseTest - Clossing Browser
+[INFO ] 2024-02-13 17:05:48.557 [main] BaseTest - Clossing Browser
+[INFO ] 2024-02-13 17:06:31.304 [main] BaseTest - The config.prperty file executing
+[INFO ] 2024-02-13 17:06:31.396 [main] BaseTest - The config.prperty file executing
+[INFO ] 2024-02-13 17:06:31.412 [main] BaseTest - The config.prperty file executing
+[INFO ] 2024-02-13 17:06:31.425 [main] BaseTest - The config.prperty file executing
+[INFO ] 2024-02-13 17:06:31.435 [main] BaseTest - The config.prperty file executing
+[INFO ] 2024-02-13 17:06:31.446 [main] BaseTest - The config.prperty file executing
+[INFO ] 2024-02-13 17:06:31.458 [main] BaseTest - The config.prperty file executing
+[INFO ] 2024-02-13 17:06:31.469 [main] BaseTest - The config.prperty file executing
+[INFO ] 2024-02-13 17:06:31.479 [main] BaseTest - The config.prperty file executing
+[INFO ] 2024-02-13 17:06:31.487 [main] BaseTest - The config.prperty file executing
+[INFO ] 2024-02-13 17:06:31.496 [main] BaseTest - The config.prperty file executing
+[INFO ] 2024-02-13 17:06:31.749 [main] BaseTest - Launching browser
+[INFO ] 2024-02-13 17:06:31.750 [main] BaseTest - Launching Edge browser
+[INFO ] 2024-02-13 17:07:20.951 [main] BaseTest - Clossing Browser
+[INFO ] 2024-02-13 17:07:21.485 [main] BaseTest - Launching browser
+[INFO ] 2024-02-13 17:07:21.485 [main] BaseTest - Launching Edge browser
+[INFO ] 2024-02-13 17:07:57.595 [main] BaseTest - Clossing Browser
+[INFO ] 2024-02-13 17:07:58.035 [main] BaseTest - Launching browser
+[INFO ] 2024-02-13 17:07:58.035 [main] BaseTest - Launching Edge browser
+[INFO ] 2024-02-13 17:08:37.819 [main] BaseTest - Clossing Browser
+[INFO ] 2024-02-13 17:08:38.227 [main] BaseTest - Launching browser
+[INFO ] 2024-02-13 17:08:38.227 [main] BaseTest - Launching Edge browser
+[INFO ] 2024-02-13 17:08:48.107 [main] BaseTest - Clossing Browser
+[INFO ] 2024-02-13 17:08:48.579 [main] BaseTest - Launching browser
+[INFO ] 2024-02-13 17:08:48.579 [main] BaseTest - Launching Edge browser
+[INFO ] 2024-02-13 17:09:30.131 [main] BaseTest - Clossing Browser
+[INFO ] 2024-02-13 17:09:30.539 [main] BaseTest - Launching browser
+[INFO ] 2024-02-13 17:09:30.539 [main] BaseTest - Launching Edge browser
+[INFO ] 2024-02-13 17:10:02.208 [main] BaseTest - Clossing Browser
+[INFO ] 2024-02-13 17:10:02.679 [main] BaseTest - Launching browser
+[INFO ] 2024-02-13 17:10:02.679 [main] BaseTest - Launching Edge browser
+[INFO ] 2024-02-13 17:10:24.889 [main] BaseTest - Clossing Browser
+[INFO ] 2024-02-13 17:10:25.298 [main] BaseTest - Launching browser
+[INFO ] 2024-02-13 17:10:25.298 [main] BaseTest - Launching Edge browser
+[INFO ] 2024-02-13 17:11:36.132 [main] BaseTest - Clossing Browser
+[INFO ] 2024-02-13 17:11:36.611 [main] BaseTest - Launching browser
+[INFO ] 2024-02-13 17:11:36.611 [main] BaseTest - Launching Edge browser
+[INFO ] 2024-02-13 17:11:52.639 [main] BaseTest - Clossing Browser
+[INFO ] 2024-02-13 17:11:53.072 [main] BaseTest - Launching browser
+[INFO ] 2024-02-13 17:11:53.072 [main] BaseTest - Launching Edge browser
+[INFO ] 2024-02-13 17:12:06.703 [main] BaseTest - Clossing Browser
+[INFO ] 2024-02-13 17:12:07.175 [main] BaseTest - Launching browser
+[INFO ] 2024-02-13 17:12:07.176 [main] BaseTest - Launching Edge browser
+[INFO ] 2024-02-13 17:12:53.777 [main] BaseTest - Clossing Browser
+[INFO ] 2024-02-13 17:12:54.186 [main] BaseTest - Clossing Browser
+[INFO ] 2024-02-13 17:16:04.680 [main] BaseTest - The config.prperty file executing
+[INFO ] 2024-02-13 17:16:04.964 [main] BaseTest - Launching browser
+[INFO ] 2024-02-13 17:16:04.965 [main] BaseTest - Launching Edge browser
+[INFO ] 2024-02-13 17:16:15.516 [main] BaseTest - Clossing Browser
+[INFO ] 2024-02-13 17:16:16.145 [main] BaseTest - Clossing Browser
+[INFO ] 2024-02-14 10:48:54.920 [main] BaseTest - The config.prperty file executing
+[INFO ] 2024-02-14 10:48:55.268 [main] BaseTest - Launching browser
+[INFO ] 2024-02-14 10:48:55.268 [main] BaseTest - Launching Edge browser
+[INFO ] 2024-02-14 10:49:11.267 [main] BaseTest - Clossing Browser
+[INFO ] 2024-02-14 10:49:11.855 [main] BaseTest - Launching browser
+[INFO ] 2024-02-14 10:49:11.864 [main] BaseTest - Launching Edge browser
+[INFO ] 2024-02-14 10:49:25.219 [main] BaseTest - Clossing Browser
+[INFO ] 2024-02-14 10:49:25.802 [main] BaseTest - Launching browser
+[INFO ] 2024-02-14 10:49:25.802 [main] BaseTest - Launching Edge browser
+[INFO ] 2024-02-14 10:49:39.411 [main] BaseTest - Clossing Browser
+[INFO ] 2024-02-14 10:49:39.945 [main] BaseTest - Launching browser
+[INFO ] 2024-02-14 10:49:39.946 [main] BaseTest - Launching Edge browser
+[INFO ] 2024-02-14 10:49:53.407 [main] BaseTest - Clossing Browser
+[INFO ] 2024-02-14 10:49:53.812 [main] BaseTest - Clossing Browser
+[INFO ] 2024-02-14 10:55:55.768 [main] BaseTest - The config.prperty file executing
+[INFO ] 2024-02-14 10:55:56.063 [main] BaseTest - Launching browser
+[INFO ] 2024-02-14 10:55:56.063 [main] BaseTest - Launching Edge browser
+[INFO ] 2024-02-14 10:56:12.384 [main] BaseTest - Clossing Browser
+[INFO ] 2024-02-14 10:56:13.051 [main] BaseTest - Clossing Browser
+[INFO ] 2024-02-14 10:57:40.532 [main] BaseTest - The config.prperty file executing
+[INFO ] 2024-02-14 10:57:40.893 [main] BaseTest - Launching browser
+[INFO ] 2024-02-14 10:57:40.893 [main] BaseTest - Launching Edge browser
+[INFO ] 2024-02-14 10:57:55.481 [main] BaseTest - Clossing Browser
+[INFO ] 2024-02-14 10:57:56.037 [main] BaseTest - Clossing Browser
+[INFO ] 2024-02-14 11:01:13.933 [main] BaseTest - The config.prperty file executing
+[INFO ] 2024-02-14 11:01:14.253 [main] BaseTest - Launching browser
+[INFO ] 2024-02-14 11:01:14.253 [main] BaseTest - Launching Edge browser
+[INFO ] 2024-02-14 11:02:40.423 [main] BaseTest - Clossing Browser
+[INFO ] 2024-02-14 11:02:40.857 [main] BaseTest - Clossing Browser
+[INFO ] 2024-02-14 11:04:08.954 [main] BaseTest - The config.prperty file executing
+[INFO ] 2024-02-14 11:04:09.256 [main] BaseTest - Launching browser
+[INFO ] 2024-02-14 11:04:09.256 [main] BaseTest - Launching Edge browser
+[INFO ] 2024-02-14 11:04:25.168 [main] BaseTest - Clossing Browser
+[INFO ] 2024-02-14 11:04:25.655 [main] BaseTest - Clossing Browser
+[INFO ] 2024-02-14 11:06:01.708 [main] BaseTest - The config.prperty file executing
+[INFO ] 2024-02-14 11:06:02.006 [main] BaseTest - Launching browser
+[INFO ] 2024-02-14 11:06:02.006 [main] BaseTest - Launching Edge browser
+[INFO ] 2024-02-14 11:06:25.562 [main] BaseTest - Clossing Browser
+[INFO ] 2024-02-14 11:06:25.966 [main] BaseTest - Clossing Browser
+[INFO ] 2024-02-14 11:15:05.661 [main] BaseTest - The config.prperty file executing
+[INFO ] 2024-02-14 11:15:05.963 [main] BaseTest - Launching browser
+[INFO ] 2024-02-14 11:15:05.964 [main] BaseTest - Launching Edge browser
+[INFO ] 2024-02-14 11:15:25.244 [main] BaseTest - Clossing Browser
+[INFO ] 2024-02-14 11:15:25.904 [main] BaseTest - Clossing Browser
+[INFO ] 2024-02-14 11:18:20.510 [main] BaseTest - The config.prperty file executing
+[INFO ] 2024-02-14 11:18:20.818 [main] BaseTest - Launching browser
+[INFO ] 2024-02-14 11:18:20.819 [main] BaseTest - Launching Edge browser
+[INFO ] 2024-02-14 11:18:40.901 [main] BaseTest - Clossing Browser
+[INFO ] 2024-02-14 11:18:41.453 [main] BaseTest - Clossing Browser
+[INFO ] 2024-02-14 11:22:49.689 [main] BaseTest - The config.prperty file executing
+[INFO ] 2024-02-14 11:22:50.036 [main] BaseTest - Launching browser
+[INFO ] 2024-02-14 11:22:50.036 [main] BaseTest - Launching Edge browser
+[INFO ] 2024-02-14 11:23:11.522 [main] BaseTest - Clossing Browser
+[INFO ] 2024-02-14 11:23:12.197 [main] BaseTest - Clossing Browser
+[INFO ] 2024-02-14 12:00:02.528 [main] BaseTest - The config.prperty file executing
+[INFO ] 2024-02-14 12:00:02.826 [main] BaseTest - Launching browser
+[INFO ] 2024-02-14 12:00:02.827 [main] BaseTest - Launching Edge browser
+[INFO ] 2024-02-14 12:00:31.209 [main] BaseTest - Clossing Browser
+[INFO ] 2024-02-15 16:17:59.069 [main] BaseTest - The config.prperty file executing
+[INFO ] 2024-02-15 16:17:59.373 [main] BaseTest - Launching browser
+[INFO ] 2024-02-15 16:17:59.397 [main] BaseTest - Clossing Browser
+[INFO ] 2024-02-15 16:28:45.388 [main] BaseTest - The config.prperty file executing
+[INFO ] 2024-02-15 16:28:45.687 [main] BaseTest - Launching browser
+[INFO ] 2024-02-15 16:28:45.715 [main] BaseTest - Clossing Browser
+[INFO ] 2024-02-15 16:30:37.715 [main] BaseTest - The config.prperty file executing
+[INFO ] 2024-02-15 16:33:59.447 [main] BaseTest - The config.prperty file executing
+[INFO ] 2024-02-15 16:33:59.746 [main] BaseTest - Launching browser
+[INFO ] 2024-02-15 16:33:59.768 [main] BaseTest - Clossing Browser
+[INFO ] 2024-02-15 16:34:17.729 [main] BaseTest - The config.prperty file executing
+[INFO ] 2024-02-15 16:34:18.083 [main] BaseTest - Launching browser
+[INFO ] 2024-02-15 16:34:18.103 [main] BaseTest - Clossing Browser
+[INFO ] 2024-02-15 16:35:02.091 [main] BaseTest - The config.prperty file executing
+[INFO ] 2024-02-15 16:35:02.377 [main] BaseTest - Launching browser
+[INFO ] 2024-02-15 16:35:02.401 [main] BaseTest - Clossing Browser
+[INFO ] 2024-02-15 16:36:48.556 [main] BaseTest - The config.prperty file executing
+[INFO ] 2024-02-15 16:36:48.846 [main] BaseTest - Launching browser
+[INFO ] 2024-02-15 16:36:48.878 [main] BaseTest - Clossing Browser
+[INFO ] 2024-02-15 16:38:32.150 [main] BaseTest - The config.prperty file executing
+[INFO ] 2024-02-15 16:38:32.466 [main] BaseTest - Launching browser
+[INFO ] 2024-02-15 16:38:32.491 [main] BaseTest - Clossing Browser
+[INFO ] 2024-02-15 16:54:10.870 [main] BaseTest - The config.prperty file executing
+[INFO ] 2024-02-15 16:54:11.179 [main] BaseTest - Launching browser
+[INFO ] 2024-02-15 16:54:11.179 [main] BaseTest - Launching Edge browser
+[INFO ] 2024-02-15 16:54:32.075 [main] BaseTest - Clossing Browser
+[INFO ] 2024-02-15 16:57:55.796 [main] BaseTest - The config.prperty file executing
+[INFO ] 2024-02-15 16:57:56.107 [main] BaseTest - Launching browser
+[INFO ] 2024-02-15 16:57:56.142 [main] BaseTest - Clossing Browser
+[INFO ] 2024-05-14 15:39:10.009 [main] BaseTest - The config.prperty file executing
+[INFO ] 2024-05-14 15:39:10.333 [main] BaseTest - Launching browser
+[INFO ] 2024-05-14 15:39:10.357 [main] BaseTest - Clossing Browser
+[INFO ] 2024-05-14 15:39:54.308 [main] BaseTest - The config.prperty file executing
+[INFO ] 2024-05-14 15:39:54.632 [main] BaseTest - Launching browser
+[INFO ] 2024-05-14 15:39:54.658 [main] BaseTest - Clossing Browser
+[INFO ] 2024-05-14 15:44:05.296 [main] BaseTest - The config.prperty file executing
+[INFO ] 2024-05-14 15:44:05.600 [main] BaseTest - Launching browser
+[INFO ] 2024-05-14 15:44:17.185 [main] BaseTest - Clossing Browser
+[INFO ] 2024-05-14 15:46:39.785 [main] BaseTest - The config.prperty file executing
+[INFO ] 2024-05-14 15:46:40.088 [main] BaseTest - Launching browser
+[INFO ] 2024-05-14 15:46:42.195 [main] BaseTest - Clossing Browser
